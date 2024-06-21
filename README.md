@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Salma Benaroub
-- 👀 I’m a passionate software and data engineer
+- 👀 I’m a passionate software and data engineering student 
 - 🌱 I’m interested in data science, artificial intelligence, machine learning, deep learning, and big data analytics
 - 💞️ I’m looking to collaborate on innovative data-driven projects and open-source contributions
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/salma-benaroub-a3107a234?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
