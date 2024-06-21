@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/Salma-Benaroub/Internship-Offers-Search-Engine-/assets/137185872/b04fe6c6-c9d5-4da9-8386-66e8be4b653b" alt="Profile Image" width="600">
+</p>
 - 👋 Hi, I’m Salma Benaroub
 - 👀 I’m a passionate software and data engineer
 - 🌱 I’m interested in data science, artificial intelligence, machine learning, deep learning, and big data analytics
@@ -6,7 +9,6 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Nothing is impossible, the word itself says "I'm possible"!😄
 
-<img src="https://github.com/Salma-Benaroub/Internship-Offers-Search-Engine-/assets/137185872/b04fe6c6-c9d5-4da9-8386-66e8be4b653b" alt="Profile Image" width="800">
 <!---
 Salma-Benaroub/Salma-Benaroub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
